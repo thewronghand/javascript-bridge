@@ -1,5 +1,5 @@
 class App {
-  play() {}
+  async run() {}
 }
 
-module.exports = App;
+export default App;

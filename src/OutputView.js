@@ -17,4 +17,4 @@ const OutputView = {
   printResult() {},
 };
 
-module.exports = OutputView;
+export default OutputView;
