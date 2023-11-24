@@ -18,4 +18,4 @@ const InputView = {
   readGameCommand() {},
 };
 
-module.exports = InputView;
+export default InputView;
